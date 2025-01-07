@@ -1,0 +1,42 @@
+Subscriber ID is: 1
+First Name: Arusha
+Last Name: Ramessur
+Contact Details: 2355899
+
+
+Subscriber ID is: 15
+First Name: Arusha
+Last Name: Ramessur
+Contact Details: 323546778
+
+
+Subscriber ID is: 1
+First Name: Minakshi
+Last Name: Ramessur
+Contact Details: 34667
+
+
+Subscriber ID is: 1
+First Name: Daya
+Last Name: Ramessur
+Contact Details: 2366889
+
+
+Subscriber ID is: 15
+First Name: Arusha
+Last Name: Ramessur
+Contact Details: 323546778
+
+
+Subscriber ID is: 1
+First Name: Daya
+Last Name: Ramessur
+Contact Details: 2366889
+
+
+Subscriber ID is: 1
+First Name: Minakshi
+Last Name: Ramessur
+Contact Details: 34667
+
+

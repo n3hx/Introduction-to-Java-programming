@@ -1,0 +1,40 @@
+Book ID is: 123
+Book Name: After
+Author: Ana todd
+Date of publication: 2020
+Copy available: 2
+Book found in section number: 8
+
+
+Book ID is: 1234
+Book Name: harry potter voll1
+Author: J K Rolling
+Date of publication: 1996
+Copy available: 2
+Book found in section number: 6
+
+
+Book ID is: 1
+Book Name: Harry potter vol2
+Author: J K Rolling
+Date of publication: 2002
+Copy available: 3
+Book found in section number: 5
+
+
+Book ID is: 1
+Book Name: Harry potter vol2
+Author: J K Rolling
+Date of publication: 2002
+Copy available: 3
+Book found in section number: 5
+
+
+Book ID is: 1234
+Book Name: harry potter voll1
+Author: J K Rolling
+Date of publication: 1996
+Copy available: 2
+Book found in section number: 6
+
+
